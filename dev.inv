@@ -1,2 +1,2 @@
 [dev]
-3.108.250.137 ansible_user=ansadmin
+172.31.0.67 ansible_user=ec2-user
